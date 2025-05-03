@@ -1,4 +1,4 @@
-![logo](https://github.com/C-HarinathReddy/C-HarinathReddy/blob/main/jj.jpg)
+![logo](https://github.com/C-HarinathReddy/C-HarinathReddy/blob/main/wmremove-transformed.jpeg)
 # 💫 About Me:
 I am a third year B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning. My passion lies in exploring the endless possibilities of AI/ML. During my studies, I honed my skills in programming languages ​​such as Python, C, and C++.
 
