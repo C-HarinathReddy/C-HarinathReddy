@@ -1,3 +1,4 @@
+![logo](https://github.com/C-HarinathReddy/C-HarinathReddy/blob/main/pngtree-tech-robot-hand-business-banner-image_162870.jpg)
 # 💫 About Me:
 "Aspiring Software/AI-ML Engineer |3rd Year B.Tech CSE Student | Passionate About Machine Learning & Data Science"
 
