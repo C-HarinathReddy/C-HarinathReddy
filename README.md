@@ -1,6 +1,6 @@
 ![logo](https://github.com/C-HarinathReddy/C-HarinathReddy/blob/main/pngtree-tech-robot-hand-business-banner-image_162870%20(1).jpg)
 # 💫 About Me:
-"Aspiring Software/AI-ML Engineer |3rd Year B.Tech CSE Student | Passionate About Machine Learning & Data Science"
+I am a third year B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning. My passion lies in exploring the endless possibilities of AI/ML. During my studies, I honed my skills in programming languages ​​such as Python, C, and C++.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harinathr) 
