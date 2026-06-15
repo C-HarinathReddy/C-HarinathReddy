@@ -1,6 +1,6 @@
 ![logo](https://github.com/C-HarinathReddy/C-HarinathReddy/blob/main/wmremove-transformed.jpeg)
 # 💫 About Me:
-I am a third year B.Tech student majoring in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning. My passion lies in exploring the endless possibilities of AI/ML. During my studies, I honed my skills in programming languages ​​such as Python, C, and C++.
+B.Tech graduate in Computer Science and Engineering (AI & ML) with a passion for Software Development, Artificial Intelligence, and Machine Learning. Proficient in Python, C, C++, and SQL, and enthusiastic about building efficient, scalable, and impactful solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinathr) 
